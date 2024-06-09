@@ -18,11 +18,11 @@ Firstly you need to be able to edit file extentions, for that we need to see the
 
 In file explorer go into the view tab:
 
-![](C:\Users\borbg\AppData\Roaming\marktext\images\2024-06-09-02-14-55-image.png)
+![alt text](assets/file_explorer_file_extentions.png)
 
 In that tab you want to make sure "File name extentions" is checked
 
-![](C:\Users\borbg\AppData\Roaming\marktext\images\2024-06-09-02-15-23-image.png)
+![](assets/file_explorer_checkboxes.png)
 
 Once you have that, you want to create a text file by right clicking in the destination folder, and navigating to new -> text document
 
